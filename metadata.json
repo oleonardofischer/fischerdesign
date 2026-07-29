@@ -1,0 +1,8 @@
+{
+  "name": "Leo Fischer Portfolio",
+  "description": "High-end design portfolio for Leo Fischer, featuring minimalist aesthetics, glassmorphism, and generative background animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
